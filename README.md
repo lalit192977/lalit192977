@@ -97,18 +97,7 @@ I'm a passionate **Junior DevOps Engineer** with a strong focus on **cloud techn
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalit192977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit192977&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalit192977&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🌟 Featured Projects
 
@@ -141,6 +130,19 @@ I'm a passionate **Junior DevOps Engineer** with a strong focus on **cloud techn
 
 
 
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalit192977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit192977&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalit192977&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
