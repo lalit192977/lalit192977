@@ -1,5 +1,5 @@
 
-![2-Tier Architecture](./images/Linkedin%20Banner.png)
+![2-Tier Architecture](./images/LinkedIn%20Banner.png)
 <br>
 
 ### 👋 About Me
